@@ -1,0 +1,6 @@
+com/example/todolist/MainActivity.java
+ com.example.todolist.MainActivity
+com/example/todolist/BuildConfig.java
+ com.example.todolist.BuildConfig
+com/example/todolist/MainFragment.java
+ com.example.todolist.MainFragment
